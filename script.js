@@ -1,0 +1,1 @@
+alert("We are happy to have you in our journy")
